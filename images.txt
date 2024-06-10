@@ -1,4 +1,8 @@
 alpine
 kasmweb/nginx:1.25.3
 openfrp/frpc:latest
-azul/zulu-openjdk
+azul/zulu-openjdk:8
+azul/zulu-openjdk:11
+azul/zulu-openjdk:17
+azul/zulu-openjdk:19
+azul/zulu-openjdk:21
